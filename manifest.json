@@ -1,0 +1,15 @@
+{
+    "short_name": "BrainBeePrep",
+    "name": "Brain Bee Competition Prep",
+    "icons": [
+        {
+            "src": "icon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb"
+}
